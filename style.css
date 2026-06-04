@@ -10,8 +10,9 @@
     color: white;
     display: flex;
     align-items: center;
-    padding: 0 20px;                      
-    
+    flex-wrap: nowrap;
+
+         
 }
 .nav-logo{
     height: 30px;
@@ -82,3 +83,5 @@
     border-bottom-right-radius:4px;
     color:#0f1111;
 }
+
+
