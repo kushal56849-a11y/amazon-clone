@@ -95,6 +95,24 @@
     color:white;
     align-items:center;
     justify-content: space-evenly;
+<<<<<<< HEAD
+=======
+}
+
+.panel-ops p {
+    display: inline;
+    margin-left: 20px;
+}
+
+.panel-ops{
+   width:70%;
+    font-size: 0.8rem;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+>>>>>>> 8ff832f66758931b68f1ac35f29638246082737d
 }
 
 .panel-ops p {
@@ -138,8 +156,13 @@
 }
 
 /*** shop section **/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+}
 .box{
     border:2px solid black;
-    
-
+    height:100px ;
+    width: 23%; 
 }
+
