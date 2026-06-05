@@ -186,3 +186,12 @@
 .box-content p{
     color:#007185 ;
 }
+
+/***footer**/
+.foot-panel1{
+background-color: #37475a;
+colur: white;
+height: 50px;
+display: flex;
+font-size: o.5rem;
+}
